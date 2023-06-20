@@ -1,0 +1,130 @@
+{
+	"version": 2,
+	"title": "Tamarind-Olive",
+	"settings": {
+		"color": {
+			"palette": [
+				{
+					"color": "#6c63ff",
+					"name": "Primary",
+					"slug": "primary"
+				},
+				{
+					"color": "#f9a826",
+					"name": "Secondary",
+					"slug": "secondary"
+				},
+				{
+					"color": "#00b0ff",
+					"name": "Tertiary",
+					"slug": "tertiary"
+				},
+				{
+					"color": "#00bfa6",
+					"name": "Accent",
+					"slug": "accent"
+				},
+				{
+					"color": "#fff",
+					"name": "Base",
+					"slug": "base"
+				},
+				{
+					"color": "#121212",
+					"name": "Contrast",
+					"slug": "contrast"
+				},
+				{
+					"color": "#5d53ff",
+					"name": "Primary Contrast",
+					"slug": "primary-contrast"
+				},
+				{
+					"color": "#00b0ff",
+					"name": "Secondary Contrast",
+					"slug": "secondary Contrast"
+				},
+				{
+					"color": "#ec9507",
+					"name": "Tertiary Contrast",
+					"slug": "tertiary-contrast"
+				},
+				{
+					"color": "#21b4b9",
+					"name": "Accent Contrast",
+					"slug": "accent-contrast"
+				},
+				{
+					"color": "#b3b0ff",
+					"name": "Light",
+					"slug": "light"
+				},
+				{
+					"color": "#292968",
+					"name": "Dark",
+					"slug": "dark"
+				},
+				{
+					"color": "#fafafa",
+					"name": "Neutral1",
+					"slug": "neutral1"
+				},
+				{
+					"color": "#eff0ff",
+					"name": "Neutral2",
+					"slug": "neutral2"
+				},
+				{
+					"color": "#dcdcdc",
+					"name": "Neutral3",
+					"slug": "neutral"
+				},
+				{
+					"color": "#999999",
+					"name": "Neutral4",
+					"slug": "neutral4"
+				},
+				{
+					"color": "#9ea1ab",
+					"name": "Neutral5",
+					"slug": "neutral5"
+				},
+				{
+					"color": "#333333",
+					"name": "Neutral6",
+					"slug": "neutral6"
+				},
+				{
+					"color": "#198754",
+					"name": "Sucsess",
+					"slug": "success"
+				},
+				{
+					"color": "#dc3545",
+					"name": "Danger",
+					"slug": "danger"
+				},
+				{
+					"color": "#ffc107",
+					"name": "Warning",
+					"slug": "warning"
+				},
+				{
+					"color": "#157347",
+					"name": "Sucsess Contrast",
+					"slug": "success-contrast"
+				},
+				{
+					"color": "#bb2d3b",
+					"name": "Danger Contrast",
+					"slug": "danger-contrast"
+				},
+				{
+					"color": "#ffca2c",
+					"name": "Warning Contrast",
+					"slug": "warning-contrast"
+				}
+			]
+		}
+	}
+}

@@ -1,0 +1,34 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/theme.json",
+	"version": 2,
+	"settings": {
+		"color": {
+			"palette": [
+				{
+					"slug": "background",
+					"color": "#ffffff",
+					"name": "Background"
+				},
+				{
+					"slug": "foreground",
+					"color": "#404040",
+					"name": "Foreground"
+				},
+			  {
+				"slug": "gold",
+				"color": "#C8AA78",
+				"name": "Gold"
+			  },
+			  {
+				"slug": "navy",
+				"color": "#243B55",
+				"name": "Navy"
+			  }
+			]
+		},
+		"layout": {
+			"contentSize": "40rem",
+			"wideSize": "60rem"
+		}
+	}
+}

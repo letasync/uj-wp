@@ -1,0 +1,7 @@
+@layer components {
+
+	.foobar {
+		@apply px-5 bg-white;
+	}
+
+}
